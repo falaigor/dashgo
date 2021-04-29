@@ -30,7 +30,7 @@ const options = {
     }
   },
   xaxis: {
-    type: "datetime",
+    type: 'datetime',
     min: new Date("22 Apr 2021").getTime(),
     tickAmount: 6,
     axisBorder: {
